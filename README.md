@@ -1,9 +1,7 @@
-# React + Vite
+# ThreeJS + React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this project im trying to learn the applications of three js in a react app following a tutorial create by the youtube channel JavaScript Mastery
+in this video - https://www.youtube.com/watch?v=ZqEa8fTxypQ
+A custom 3d shirt application using threejs on a react + vite app
+![image](https://github.com/Salemlumos/threejsShirtTranning/assets/72563534/4cf8b016-b090-484c-ac02-8d85ce4d4b95)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# threejsShirtTranning
